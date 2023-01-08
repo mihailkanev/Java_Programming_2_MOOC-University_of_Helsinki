@@ -1,0 +1,17 @@
+{
+	"java.project.sourcePaths": [
+		"src"
+	],
+	"java.project.outputPath": "bin",
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"c:/Users/lakoz/AppData/Local/tmc/vscode/mooc-java-programming-ii/part14-Part14_06.Smiley/src/main/java/smiley/lib/javafx.base.jar",
+		"c:/Users/lakoz/AppData/Local/tmc/vscode/mooc-java-programming-ii/part14-Part14_06.Smiley/src/main/java/smiley/lib/javafx.controls.jar",
+		"c:/Users/lakoz/AppData/Local/tmc/vscode/mooc-java-programming-ii/part14-Part14_06.Smiley/src/main/java/smiley/lib/javafx.fxml.jar",
+		"c:/Users/lakoz/AppData/Local/tmc/vscode/mooc-java-programming-ii/part14-Part14_06.Smiley/src/main/java/smiley/lib/javafx.graphics.jar",
+		"c:/Users/lakoz/AppData/Local/tmc/vscode/mooc-java-programming-ii/part14-Part14_06.Smiley/src/main/java/smiley/lib/javafx.media.jar",
+		"c:/Users/lakoz/AppData/Local/tmc/vscode/mooc-java-programming-ii/part14-Part14_06.Smiley/src/main/java/smiley/lib/javafx.swing.jar",
+		"c:/Users/lakoz/AppData/Local/tmc/vscode/mooc-java-programming-ii/part14-Part14_06.Smiley/src/main/java/smiley/lib/javafx.web.jar",
+		"c:/Users/lakoz/AppData/Local/tmc/vscode/mooc-java-programming-ii/part14-Part14_06.Smiley/src/main/java/smiley/lib/javafx-swt.ja"
+	]
+}
